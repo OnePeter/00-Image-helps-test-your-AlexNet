@@ -1,4 +1,7 @@
-It contains three stages of image processing:
-   01_Image_From_ImageNet
-   02_Image_Resized_To_245x245
-   03_Image_Normalized_Float_Text
+It contains few stages of image processing:
+   01-Image-From-ImageNet
+   02-Image-Resized-To-224x224
+   03-Image-Normalized-Float-Text
+   04-Image-Normalized-Binary
+   05-Image-Normalized-Integer (x 65000)
+   06-Image-One-Color-Only
