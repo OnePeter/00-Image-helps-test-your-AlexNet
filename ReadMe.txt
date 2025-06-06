@@ -11,5 +11,6 @@ It contains few stages of image processing:
    08-Image-Turn-Degree5-Data
    09-Image-Turn-Degree5
    10-Image-Turn-DegreeNeg5 
-   11-Image-Gray-Data
+   11-Image-Turn-DegreeNeg5-Data 
+   12-Image-Gray-Data
 
