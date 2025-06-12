@@ -1,4 +1,4 @@
-It contains few stages of image processing:
+It contains some formats of image data:
    01-Image-From-ImageNet
    02-Image-Resized-To-224x224
    03-Image-Normalized-Float-Text
@@ -13,4 +13,11 @@ It contains few stages of image processing:
    10-Image-Turn-DegreeNeg5 
    11-Image-Turn-DegreeNeg5-Data 
    12-Image-Gray-Data
+   13-Image-Cropped
+   14-Image-Cropped-Data
+   15-Image-Flipped
+   15-Image-Flipped-Data
+   16-Image-Color-Red-Reduce
+   16-Image-Color-Red-Reduce-Data
+   17-Image-Letters-Data
 
